@@ -17,7 +17,7 @@ Un sistema multi-agente para generación de contenido SEO optimizado utilizando 
 
 ```ascii
 ┌──────────────────────────────────────────────────────────────────────────────────┐
-│                     CrewAI SEO Workflow                                          │ 
+│                              CrewAI SEO Workflow                                 │ 
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │  Usuario → Topic → CrewAI Manager → [Researcher → Writer] → Contenido SEO Final  │
 └──────────────────────────────────────────────────────────────────────────────────┘
